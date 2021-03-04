@@ -1,3 +1,3 @@
-#GIT HUB
+GIT HUB
 
 テストです。
