@@ -1,3 +1,8 @@
 body{
     background: #fff;
 }
+
+.texthello{
+    font-size: 3rem;
+    color: rgb(89, 52, 124);
+}
